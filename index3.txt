@@ -1,2 +1,4 @@
 indix3 on project3
 change after merge
+changes
+stash is added
